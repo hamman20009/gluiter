@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/12.png',
-		image2: 'img/products/produit.png',
+		image: 'img/products/dawli.jpg',
+		image2: 'img/products/dawali.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
+		title: ' العلاج النهائي للداولي    ',
 		price1: 5500,
-		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		price: 3500,
+		description: '  العلاج النهائي للداولي '   ,
 		phone: 0,
 	},
 
