@@ -3,7 +3,7 @@ const products = [
 		id: 2,
 		logo:'img/logo.png',
 		image: 'img/products/titan.JPG',
-		image2: 'img/products/landing.JPG',
+		image2: 'img/products/titan.png',
 		
 		title: ' TITAN GEL   ',
 		price1: 15500,
