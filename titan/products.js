@@ -7,7 +7,7 @@ const products = [
 		
 		title: ' TITAN GEL   ',
 		price1: 15500,
-		price: 6900,
+		price: 7900,
 		description: '   TITAN GEL ORIGINAL '   ,
 		phone: 0,
 	},
