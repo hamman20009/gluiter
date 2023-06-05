@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/products/x.JPG',
+		image: 'img/products/prd.jpg',
 		image2: 'img/products/produit.png',
 		
 		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
